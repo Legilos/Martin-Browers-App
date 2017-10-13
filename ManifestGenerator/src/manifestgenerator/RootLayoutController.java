@@ -188,7 +188,7 @@ public class RootLayoutController
             aboutDialog.initModality(Modality.WINDOW_MODAL);
             aboutDialog.initOwner(mainStage);
             aboutDialog.getIcons().addAll(mainStage.getIcons());
-            final int WIDTH = 600, HEIGHT = 400;
+            final int WIDTH = 600, HEIGHT = 600;
             Scene aboutScene = new Scene(page, WIDTH, HEIGHT);
             aboutDialog.setScene(aboutScene);
             aboutScene.addEventFilter(KeyEvent.KEY_PRESSED, keyEvent -> {

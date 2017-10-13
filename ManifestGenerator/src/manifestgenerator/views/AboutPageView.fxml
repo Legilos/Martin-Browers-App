@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="600.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1">
    <center>
       <GridPane BorderPane.alignment="CENTER">
         <columnConstraints>
@@ -56,6 +56,21 @@
                         <Font name="Segoe UI" size="10.0" />
                      </font>
                   </Label>
+                  <Label text="Gina Dedes">
+                     <font>
+                        <Font name="Segoe UI" size="10.0" />
+                     </font>
+                  </Label>
+                  <Label text="John P. Rowan">
+                     <font>
+                        <Font name="Segoe UI" size="10.0" />
+                     </font>
+                  </Label>
+                  <Label text="Bruce Langlois">
+                     <font>
+                        <Font name="Segoe UI" size="10.0" />
+                     </font>
+                  </Label>
                </children>
             </VBox>
             <VBox spacing="10.0" GridPane.columnIndex="3" GridPane.rowIndex="3">
@@ -65,22 +80,22 @@
                         <Font name="Segoe UI Light" size="16.0" />
                      </font>
                   </Label>
-                  <Label text="Mohamed Pussah - Technical">
+                  <Label text="Bruce Langlois - Technical">
                      <font>
                         <Font name="Segoe UI" size="10.0" />
                      </font>
                   </Label>
-                  <Label text="+1 267 357 6840 | talk2alie@outlook.com">
+                  <Label text="+1 302 753 1987 | bl838422@wcupa.edu">
                      <font>
                         <Font name="Segoe UI" size="10.0" />
                      </font>
                   </Label>
-                  <Label text="Adrian Rodriguez - Customer Relations">
+                  <Label text="Tim Wilson - Customer Relations">
                      <font>
                         <Font name="Segoe UI" size="10.0" />
                      </font>
                   </Label>
-                  <Label text="609 403 0337 | rodriguez.adrian609@gmail.com">
+                  <Label text="443-306-9060 | twilson@redlineadvantage.com">
                      <font>
                         <Font name="Segoe UI" size="10.0" />
                      </font>
